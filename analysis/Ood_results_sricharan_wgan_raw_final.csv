@@ -1,0 +1,401 @@
+,ROC,Measure,Classifier
+0,0.9158314296177456,Sricharan WGAN conditional,Baseline
+1,0.9694600007971939,Sricharan WGAN conditional,Baseline
+2,0.7799609437280772,Sricharan WGAN conditional,Baseline
+3,0.5937707083565849,Sricharan WGAN conditional,Baseline
+4,0.845389697016502,Sricharan WGAN conditional,Baseline
+5,0.8772595463966837,Sricharan WGAN conditional,Baseline
+6,0.8966157874282525,Sricharan WGAN conditional,Baseline
+7,0.5155023068797832,Sricharan WGAN conditional,Baseline
+8,0.8446177268514828,Sricharan WGAN conditional,Baseline
+9,0.9447089993223852,Sricharan WGAN conditional,Baseline
+10,0.8292729903240592,Sricharan WGAN conditional,Baseline
+11,0.917741736587213,Sricharan WGAN conditional,Baseline
+12,0.7374958894690687,Sricharan WGAN conditional,Baseline
+13,0.9085476933693399,Sricharan WGAN conditional,Baseline
+14,0.9852849220742985,Sricharan WGAN conditional,Baseline
+15,0.5032125979053731,Sricharan WGAN conditional,Baseline
+16,0.7364624957649075,Sricharan WGAN conditional,Baseline
+17,0.2960018235809949,Sricharan WGAN conditional,Baseline
+18,0.9310654620735013,Sricharan WGAN conditional,Baseline
+19,0.34771292550223215,Sricharan WGAN conditional,Baseline
+20,0.18351387491031568,Sricharan WGAN conditional,Baseline
+21,0.24389368174027423,Sricharan WGAN conditional,Baseline
+22,0.7245855526048309,Sricharan WGAN conditional,Baseline
+23,0.9895362075494262,Sricharan WGAN conditional,Baseline
+24,0.8223126469826212,Sricharan WGAN conditional,Baseline
+25,0.8627749073262119,Sricharan WGAN conditional,Baseline
+26,0.8881482494120695,Sricharan WGAN conditional,Baseline
+27,0.6757315810845822,Sricharan WGAN conditional,Baseline
+28,0.9902191162109375,Sricharan WGAN conditional,Baseline
+29,0.9875002491230866,Sricharan WGAN conditional,Baseline
+30,0.8516579452826052,Sricharan WGAN conditional,Baseline
+31,0.6982879638671875,Sricharan WGAN conditional,Baseline
+32,0.9418515575175384,Sricharan WGAN conditional,Baseline
+33,0.9442605777662629,Sricharan WGAN conditional,Baseline
+34,0.9719963852240114,Sricharan WGAN conditional,Baseline
+35,0.9859027473294005,Sricharan WGAN conditional,Baseline
+36,0.8987186976841517,Sricharan WGAN conditional,Baseline
+37,0.5343833456234056,Sricharan WGAN conditional,Baseline
+38,0.9904635682397958,Sricharan WGAN conditional,Baseline
+39,0.9672484105947067,Sricharan WGAN conditional,Baseline
+40,0.9869406563895088,Sricharan WGAN conditional,Baseline
+41,0.9722109424824618,Sricharan WGAN conditional,Baseline
+42,0.9148170315489477,Sricharan WGAN conditional,Baseline
+43,0.9692206869319995,Sricharan WGAN conditional,Baseline
+44,0.9714595249720982,Sricharan WGAN conditional,Baseline
+45,0.9885839345503827,Sricharan WGAN conditional,Baseline
+46,0.9894241021603953,Sricharan WGAN conditional,Baseline
+47,0.972875789720185,Sricharan WGAN conditional,Baseline
+48,0.9929878079161352,Sricharan WGAN conditional,Baseline
+49,0.9632926473812181,Sricharan WGAN conditional,Baseline
+50,0.993880914182079,Sricharan WGAN conditional,Baseline
+51,0.9854331503109056,Sricharan WGAN conditional,Baseline
+52,0.8613530373086734,Sricharan WGAN conditional,Baseline
+53,0.9946061737683354,Sricharan WGAN conditional,Baseline
+54,0.9567992541254783,Sricharan WGAN conditional,Baseline
+55,0.9803535305723852,Sricharan WGAN conditional,Baseline
+56,0.9856100277024872,Sricharan WGAN conditional,Baseline
+57,0.8020262426259566,Sricharan WGAN conditional,Baseline
+58,0.9251003654635682,Sricharan WGAN conditional,Baseline
+59,0.9670562744140623,Sricharan WGAN conditional,Baseline
+60,0.993359935526945,Sricharan WGAN conditional,Baseline
+61,0.9791403011399871,Sricharan WGAN conditional,Baseline
+62,0.9858130630181762,Sricharan WGAN conditional,Baseline
+63,0.9391965282206634,Sricharan WGAN conditional,Baseline
+64,0.9610823027941645,Sricharan WGAN conditional,Baseline
+65,0.9956777144451531,Sricharan WGAN conditional,Baseline
+66,0.9959224778778699,Sricharan WGAN conditional,Baseline
+67,0.9823664451132014,Sricharan WGAN conditional,Baseline
+68,0.9922494693678252,Sricharan WGAN conditional,Baseline
+69,0.9943757349131058,Sricharan WGAN conditional,Baseline
+70,0.9915631352638712,Sricharan WGAN conditional,Baseline
+71,0.9890239482023278,Sricharan WGAN conditional,Baseline
+72,0.9857258699378187,Sricharan WGAN conditional,Baseline
+73,0.9845375528140945,Sricharan WGAN conditional,Baseline
+74,0.961093824736926,Sricharan WGAN conditional,Baseline
+75,0.9702403788663904,Sricharan WGAN conditional,Baseline
+76,0.9897074796715561,Sricharan WGAN conditional,Baseline
+77,0.9871355952048789,Sricharan WGAN conditional,Baseline
+78,0.9778190145687181,Sricharan WGAN conditional,Baseline
+79,0.9831882398955676,Sricharan WGAN conditional,Baseline
+80,0.9453411491549746,Sricharan WGAN conditional,Baseline
+81,0.9943570506816009,Sricharan WGAN conditional,Baseline
+82,0.9925163424744898,Sricharan WGAN conditional,Baseline
+83,0.9880978331273916,Sricharan WGAN conditional,Baseline
+84,0.981871001574458,Sricharan WGAN conditional,Baseline
+85,0.9788189323580995,Sricharan WGAN conditional,Baseline
+86,0.99753492705676,Sricharan WGAN conditional,Baseline
+87,0.9983237130301339,Sricharan WGAN conditional,Baseline
+88,0.9961171052893812,Sricharan WGAN conditional,Baseline
+89,0.9868727703483737,Sricharan WGAN conditional,Baseline
+90,0.9968570008569834,Sricharan WGAN conditional,Baseline
+91,0.9766288290218431,Sricharan WGAN conditional,Baseline
+92,0.986392274194834,Sricharan WGAN conditional,Baseline
+93,0.9934717295121173,Sricharan WGAN conditional,Baseline
+94,0.9727085658482142,Sricharan WGAN conditional,Baseline
+95,0.9830098054846939,Sricharan WGAN conditional,Baseline
+96,0.9873376963089924,Sricharan WGAN conditional,Baseline
+97,0.9905432876275511,Sricharan WGAN conditional,Baseline
+98,0.9797325912786989,Sricharan WGAN conditional,Baseline
+99,0.9955447449976085,Sricharan WGAN conditional,Baseline
+100,0.9889928078164859,Sricharan WGAN conditional,Baseline
+101,0.9778255540497449,Sricharan WGAN conditional,Baseline
+102,0.9845988993742028,Sricharan WGAN conditional,Baseline
+103,0.940865030094069,Sricharan WGAN conditional,Baseline
+104,0.9882930833466199,Sricharan WGAN conditional,Baseline
+105,0.989980580855389,Sricharan WGAN conditional,Baseline
+106,0.9968890754544005,Sricharan WGAN conditional,Baseline
+107,0.9598153561961895,Sricharan WGAN conditional,Baseline
+108,0.9800175258091518,Sricharan WGAN conditional,Baseline
+109,0.9909695995097259,Sricharan WGAN conditional,Baseline
+110,0.9301701759805485,Sricharan WGAN conditional,Baseline
+111,0.9864589146205356,Sricharan WGAN conditional,Baseline
+112,0.9841831752232143,Sricharan WGAN conditional,Baseline
+113,0.952710365762516,Sricharan WGAN conditional,Baseline
+114,0.9927994085817919,Sricharan WGAN conditional,Baseline
+115,0.8624924640266263,Sricharan WGAN conditional,Baseline
+116,0.9468611113879145,Sricharan WGAN conditional,Baseline
+117,0.9364016785913585,Sricharan WGAN conditional,Baseline
+118,0.9829948580994898,Sricharan WGAN conditional,Baseline
+119,0.6848356285873725,Sricharan WGAN conditional,Baseline
+120,0.8703276965082909,Sricharan WGAN conditional,Baseline
+121,0.5529344519790338,Sricharan WGAN conditional,Baseline
+122,0.9851413648955675,Sricharan WGAN conditional,Baseline
+123,0.9926605224609375,Sricharan WGAN conditional,Baseline
+124,0.8916758323202327,Sricharan WGAN conditional,Baseline
+125,0.9548992234833386,Sricharan WGAN conditional,Baseline
+126,0.9389754314811862,Sricharan WGAN conditional,Baseline
+127,0.9912019067881057,Sricharan WGAN conditional,Baseline
+128,0.9826093401227678,Sricharan WGAN conditional,Baseline
+129,0.989131382533482,Sricharan WGAN conditional,Baseline
+130,0.863415932168766,Sricharan WGAN conditional,Baseline
+131,0.9883977150430484,Sricharan WGAN conditional,Baseline
+132,0.9300253731863839,Sricharan WGAN conditional,Baseline
+133,0.950656813018176,Sricharan WGAN conditional,Baseline
+134,0.8780570516780931,Sricharan WGAN conditional,Baseline
+135,0.9911710778061225,Sricharan WGAN conditional,Baseline
+136,0.9878988460618622,Sricharan WGAN conditional,Baseline
+137,0.8309031895228794,Sricharan WGAN conditional,Baseline
+138,0.9874385911591199,Sricharan WGAN conditional,Baseline
+139,0.953126557019292,Sricharan WGAN conditional,Baseline
+140,0.1679265547771843,Sricharan WGAN conditional,Baseline
+141,0.03861267712651467,Sricharan WGAN conditional,Baseline
+142,0.16613349136041133,Sricharan WGAN conditional,Baseline
+143,0.06975944674744897,Sricharan WGAN conditional,Baseline
+144,0.06332288469587055,Sricharan WGAN conditional,Baseline
+145,0.12578754035794004,Sricharan WGAN conditional,Baseline
+146,0.2493335957429847,Sricharan WGAN conditional,Baseline
+147,0.49057162537866705,Sricharan WGAN conditional,Baseline
+148,0.42545988121811223,Sricharan WGAN conditional,Baseline
+149,0.729677472795759,Sricharan WGAN conditional,Baseline
+150,0.09776088169642856,Sricharan WGAN conditional,Baseline
+151,0.07246321074816645,Sricharan WGAN conditional,Baseline
+152,0.0741068003128986,Sricharan WGAN conditional,Baseline
+153,0.09683694644850127,Sricharan WGAN conditional,Baseline
+154,0.4575553426937181,Sricharan WGAN conditional,Baseline
+155,0.09354447345344388,Sricharan WGAN conditional,Baseline
+156,0.5642071159518496,Sricharan WGAN conditional,Baseline
+157,0.5335238709741709,Sricharan WGAN conditional,Baseline
+158,0.12697445616430164,Sricharan WGAN conditional,Baseline
+159,0.037109375,Sricharan WGAN conditional,Baseline
+160,0.9926032241509885,Sricharan WGAN conditional,Baseline
+161,0.9759969905931122,Sricharan WGAN conditional,Baseline
+162,0.9597958934550382,Sricharan WGAN conditional,Baseline
+163,0.8209961871711575,Sricharan WGAN conditional,Baseline
+164,0.972986026686065,Sricharan WGAN conditional,Baseline
+165,0.9832797926299427,Sricharan WGAN conditional,Baseline
+166,0.8505565098353794,Sricharan WGAN conditional,Baseline
+167,0.9439233273875958,Sricharan WGAN conditional,Baseline
+168,0.9769134521484375,Sricharan WGAN conditional,Baseline
+169,0.9635880139409279,Sricharan WGAN conditional,Baseline
+170,0.9873187006736287,Sricharan WGAN conditional,Baseline
+171,0.9466638370436067,Sricharan WGAN conditional,Baseline
+172,0.9232518721599968,Sricharan WGAN conditional,Baseline
+173,0.9632736517458546,Sricharan WGAN conditional,Baseline
+174,0.9672197614397322,Sricharan WGAN conditional,Baseline
+175,0.8585177051777741,Sricharan WGAN conditional,Baseline
+176,0.8528106066645408,Sricharan WGAN conditional,Baseline
+177,0.8197399840062978,Sricharan WGAN conditional,Baseline
+178,0.9750279017857143,Sricharan WGAN conditional,Baseline
+179,0.8363269105249522,Sricharan WGAN conditional,Baseline
+180,0.9820316859654018,Sricharan WGAN conditional,Baseline
+181,0.9397100331831952,Sricharan WGAN conditional,Baseline
+182,0.939733077068718,Sricharan WGAN conditional,Baseline
+183,0.9492906842912945,Sricharan WGAN conditional,Baseline
+184,0.9571875747369261,Sricharan WGAN conditional,Baseline
+185,0.9001671927315849,Sricharan WGAN conditional,Baseline
+186,0.9894708127391583,Sricharan WGAN conditional,Baseline
+187,0.9772426060267857,Sricharan WGAN conditional,Baseline
+188,0.9455307941047513,Sricharan WGAN conditional,Baseline
+189,0.9929523078762755,Sricharan WGAN conditional,Baseline
+190,0.9958290567203443,Sricharan WGAN conditional,Baseline
+191,0.991899451430963,Sricharan WGAN conditional,Baseline
+192,0.9923911581234057,Sricharan WGAN conditional,Baseline
+193,0.9581463872169962,Sricharan WGAN conditional,Baseline
+194,0.8220502892319036,Sricharan WGAN conditional,Baseline
+195,0.9836671790298152,Sricharan WGAN conditional,Baseline
+196,0.9810230488679847,Sricharan WGAN conditional,Baseline
+197,0.7259621133609694,Sricharan WGAN conditional,Baseline
+198,0.7178682599748883,Sricharan WGAN conditional,Baseline
+199,0.981225772779815,Sricharan WGAN conditional,Baseline
+0,0.9601898193359374,Sricharan WGAN conditional,MC Dropout
+1,0.9809529829998406,Sricharan WGAN conditional,MC Dropout
+2,0.986787445691167,Sricharan WGAN conditional,MC Dropout
+3,0.9450549690090879,Sricharan WGAN conditional,MC Dropout
+4,0.9520313496492347,Sricharan WGAN conditional,MC Dropout
+5,0.9732382638113839,Sricharan WGAN conditional,MC Dropout
+6,0.9479849679129465,Sricharan WGAN conditional,MC Dropout
+7,0.9740077427455356,Sricharan WGAN conditional,MC Dropout
+8,0.967489125777264,Sricharan WGAN conditional,MC Dropout
+9,0.9635526696029977,Sricharan WGAN conditional,MC Dropout
+10,0.970119554169324,Sricharan WGAN conditional,MC Dropout
+11,0.9623369489397321,Sricharan WGAN conditional,MC Dropout
+12,0.983749701052296,Sricharan WGAN conditional,MC Dropout
+13,0.959751674107143,Sricharan WGAN conditional,MC Dropout
+14,0.9782017299107143,Sricharan WGAN conditional,MC Dropout
+15,0.9789397570551658,Sricharan WGAN conditional,MC Dropout
+16,0.9701637735172195,Sricharan WGAN conditional,MC Dropout
+17,0.9885157371053891,Sricharan WGAN conditional,MC Dropout
+18,0.9794261698820155,Sricharan WGAN conditional,MC Dropout
+19,0.9773836719746494,Sricharan WGAN conditional,MC Dropout
+20,0.9660270846619898,Sricharan WGAN conditional,MC Dropout
+21,0.9838063765545282,Sricharan WGAN conditional,MC Dropout
+22,0.9872732357102998,Sricharan WGAN conditional,MC Dropout
+23,0.9679431526028381,Sricharan WGAN conditional,MC Dropout
+24,0.9728932283362565,Sricharan WGAN conditional,MC Dropout
+25,0.9686724604392538,Sricharan WGAN conditional,MC Dropout
+26,0.9788323227240115,Sricharan WGAN conditional,MC Dropout
+27,0.9745673354791137,Sricharan WGAN conditional,MC Dropout
+28,0.9801648198341835,Sricharan WGAN conditional,MC Dropout
+29,0.9662123699577488,Sricharan WGAN conditional,MC Dropout
+30,0.9726509561344068,Sricharan WGAN conditional,MC Dropout
+31,0.9700417032047193,Sricharan WGAN conditional,MC Dropout
+32,0.9172182667012118,Sricharan WGAN conditional,MC Dropout
+33,0.9780317034040179,Sricharan WGAN conditional,MC Dropout
+34,0.9417042634925064,Sricharan WGAN conditional,MC Dropout
+35,0.9807172502790179,Sricharan WGAN conditional,MC Dropout
+36,0.9709759147799746,Sricharan WGAN conditional,MC Dropout
+37,0.9806848642777423,Sricharan WGAN conditional,MC Dropout
+38,0.9821581159319197,Sricharan WGAN conditional,MC Dropout
+39,0.970198339345504,Sricharan WGAN conditional,MC Dropout
+40,0.9650081712372449,Sricharan WGAN conditional,MC Dropout
+41,0.984922136579241,Sricharan WGAN conditional,MC Dropout
+42,0.9845406668526785,Sricharan WGAN conditional,MC Dropout
+43,0.9781659184669963,Sricharan WGAN conditional,MC Dropout
+44,0.9763862454161352,Sricharan WGAN conditional,MC Dropout
+45,0.9795787577726403,Sricharan WGAN conditional,MC Dropout
+46,0.9751344019052934,Sricharan WGAN conditional,MC Dropout
+47,0.9875391746053892,Sricharan WGAN conditional,MC Dropout
+48,0.9794485909598214,Sricharan WGAN conditional,MC Dropout
+49,0.974860989317602,Sricharan WGAN conditional,MC Dropout
+50,0.9854203827527105,Sricharan WGAN conditional,MC Dropout
+51,0.9842837586694835,Sricharan WGAN conditional,MC Dropout
+52,0.9906884018255739,Sricharan WGAN conditional,MC Dropout
+53,0.9775761195591519,Sricharan WGAN conditional,MC Dropout
+54,0.9855106898716517,Sricharan WGAN conditional,MC Dropout
+55,0.9846403160873726,Sricharan WGAN conditional,MC Dropout
+56,0.9742665193518814,Sricharan WGAN conditional,MC Dropout
+57,0.9689879125478317,Sricharan WGAN conditional,MC Dropout
+58,0.9768823117625958,Sricharan WGAN conditional,MC Dropout
+59,0.9898270587531889,Sricharan WGAN conditional,MC Dropout
+60,0.9915282580317283,Sricharan WGAN conditional,MC Dropout
+61,0.9861932871293049,Sricharan WGAN conditional,MC Dropout
+62,0.9842868727080674,Sricharan WGAN conditional,MC Dropout
+63,0.98033484634088,Sricharan WGAN conditional,MC Dropout
+64,0.9769146977638712,Sricharan WGAN conditional,MC Dropout
+65,0.9869353625239159,Sricharan WGAN conditional,MC Dropout
+66,0.9779118129185269,Sricharan WGAN conditional,MC Dropout
+67,0.988468092315051,Sricharan WGAN conditional,MC Dropout
+68,0.9897355060188137,Sricharan WGAN conditional,MC Dropout
+69,0.9894602250079718,Sricharan WGAN conditional,MC Dropout
+70,0.9875569246253187,Sricharan WGAN conditional,MC Dropout
+71,0.992034912109375,Sricharan WGAN conditional,MC Dropout
+72,0.9850672507772641,Sricharan WGAN conditional,MC Dropout
+73,0.9804316929408482,Sricharan WGAN conditional,MC Dropout
+74,0.9872364900550065,Sricharan WGAN conditional,MC Dropout
+75,0.9858968306560906,Sricharan WGAN conditional,MC Dropout
+76,0.9833922094228317,Sricharan WGAN conditional,MC Dropout
+77,0.9893378432916135,Sricharan WGAN conditional,MC Dropout
+78,0.9911629813058036,Sricharan WGAN conditional,MC Dropout
+79,0.9899463264309629,Sricharan WGAN conditional,MC Dropout
+80,0.9764080436862246,Sricharan WGAN conditional,MC Dropout
+81,0.9795030866350445,Sricharan WGAN conditional,MC Dropout
+82,0.9865180813536353,Sricharan WGAN conditional,MC Dropout
+83,0.9921186797472894,Sricharan WGAN conditional,MC Dropout
+84,0.9749108139349489,Sricharan WGAN conditional,MC Dropout
+85,0.9926418382294324,Sricharan WGAN conditional,MC Dropout
+86,0.9834934156768178,Sricharan WGAN conditional,MC Dropout
+87,0.9871807487643495,Sricharan WGAN conditional,MC Dropout
+88,0.979641038544324,Sricharan WGAN conditional,MC Dropout
+89,0.9862792345942284,Sricharan WGAN conditional,MC Dropout
+90,0.9902633355588328,Sricharan WGAN conditional,MC Dropout
+91,0.9899812036631058,Sricharan WGAN conditional,MC Dropout
+92,0.9880268330476721,Sricharan WGAN conditional,MC Dropout
+93,0.9828413359972895,Sricharan WGAN conditional,MC Dropout
+94,0.9866516736088968,Sricharan WGAN conditional,MC Dropout
+95,0.9888508076570472,Sricharan WGAN conditional,MC Dropout
+96,0.980411451690051,Sricharan WGAN conditional,MC Dropout
+97,0.9834613410794005,Sricharan WGAN conditional,MC Dropout
+98,0.9924014344507336,Sricharan WGAN conditional,MC Dropout
+99,0.9806147984095982,Sricharan WGAN conditional,MC Dropout
+100,0.9792882179727359,Sricharan WGAN conditional,MC Dropout
+101,0.976284104950574,Sricharan WGAN conditional,MC Dropout
+102,0.9752620774872449,Sricharan WGAN conditional,MC Dropout
+103,0.9786065549266583,Sricharan WGAN conditional,MC Dropout
+104,0.9642732581313777,Sricharan WGAN conditional,MC Dropout
+105,0.9799434116908483,Sricharan WGAN conditional,MC Dropout
+106,0.9752714196029975,Sricharan WGAN conditional,MC Dropout
+107,0.9834818937340561,Sricharan WGAN conditional,MC Dropout
+108,0.9615422462930485,Sricharan WGAN conditional,MC Dropout
+109,0.9795245735012755,Sricharan WGAN conditional,MC Dropout
+110,0.9808850969587054,Sricharan WGAN conditional,MC Dropout
+111,0.9834585384446748,Sricharan WGAN conditional,MC Dropout
+112,0.9787831209143814,Sricharan WGAN conditional,MC Dropout
+113,0.9742098438496493,Sricharan WGAN conditional,MC Dropout
+114,0.9794380032286353,Sricharan WGAN conditional,MC Dropout
+115,0.982271466936384,Sricharan WGAN conditional,MC Dropout
+116,0.9617904351682081,Sricharan WGAN conditional,MC Dropout
+117,0.9729408731265943,Sricharan WGAN conditional,MC Dropout
+118,0.9822418835698341,Sricharan WGAN conditional,MC Dropout
+119,0.9826557392976721,Sricharan WGAN conditional,MC Dropout
+120,0.9743020193917409,Sricharan WGAN conditional,MC Dropout
+121,0.9491829385562819,Sricharan WGAN conditional,MC Dropout
+122,0.934028469786352,Sricharan WGAN conditional,MC Dropout
+123,0.9682654555963011,Sricharan WGAN conditional,MC Dropout
+124,0.9880230962013712,Sricharan WGAN conditional,MC Dropout
+125,0.9845646449497766,Sricharan WGAN conditional,MC Dropout
+126,0.971854696468431,Sricharan WGAN conditional,MC Dropout
+127,0.9630478839485014,Sricharan WGAN conditional,MC Dropout
+128,0.9818809664979273,Sricharan WGAN conditional,MC Dropout
+129,0.969199667171556,Sricharan WGAN conditional,MC Dropout
+130,0.9600665034080038,Sricharan WGAN conditional,MC Dropout
+131,0.9713007090043049,Sricharan WGAN conditional,MC Dropout
+132,0.9929211674904337,Sricharan WGAN conditional,MC Dropout
+133,0.978415975765306,Sricharan WGAN conditional,MC Dropout
+134,0.9831577223174427,Sricharan WGAN conditional,MC Dropout
+135,0.9861310063576213,Sricharan WGAN conditional,MC Dropout
+136,0.9849380181760204,Sricharan WGAN conditional,MC Dropout
+137,0.9864358707350127,Sricharan WGAN conditional,MC Dropout
+138,0.9745343266701212,Sricharan WGAN conditional,MC Dropout
+139,0.9841725874920281,Sricharan WGAN conditional,MC Dropout
+140,0.7111673160475127,Sricharan WGAN conditional,MC Dropout
+141,0.5824128754284916,Sricharan WGAN conditional,MC Dropout
+142,0.359432298309949,Sricharan WGAN conditional,MC Dropout
+143,0.6924938279755262,Sricharan WGAN conditional,MC Dropout
+144,0.6745933999820631,Sricharan WGAN conditional,MC Dropout
+145,0.8090667724609375,Sricharan WGAN conditional,MC Dropout
+146,0.7542693468989159,Sricharan WGAN conditional,MC Dropout
+147,0.7813937128806601,Sricharan WGAN conditional,MC Dropout
+148,0.9088315379862882,Sricharan WGAN conditional,MC Dropout
+149,0.6079152944136639,Sricharan WGAN conditional,MC Dropout
+150,0.713958740234375,Sricharan WGAN conditional,MC Dropout
+151,0.897940966547752,Sricharan WGAN conditional,MC Dropout
+152,0.7703178561463648,Sricharan WGAN conditional,MC Dropout
+153,0.8870153621751434,Sricharan WGAN conditional,MC Dropout
+154,0.8027418486926021,Sricharan WGAN conditional,MC Dropout
+155,0.7580177151426977,Sricharan WGAN conditional,MC Dropout
+156,0.6059047154017857,Sricharan WGAN conditional,MC Dropout
+157,0.9018557801538584,Sricharan WGAN conditional,MC Dropout
+158,0.827979885801977,Sricharan WGAN conditional,MC Dropout
+159,0.8873778362663425,Sricharan WGAN conditional,MC Dropout
+160,0.9780538130779655,Sricharan WGAN conditional,MC Dropout
+161,0.973957295320472,Sricharan WGAN conditional,MC Dropout
+162,0.9721100476323343,Sricharan WGAN conditional,MC Dropout
+163,0.9526317362882653,Sricharan WGAN conditional,MC Dropout
+164,0.9537418910435267,Sricharan WGAN conditional,MC Dropout
+165,0.9702469183474172,Sricharan WGAN conditional,MC Dropout
+166,0.9634589370416136,Sricharan WGAN conditional,MC Dropout
+167,0.9814126150948661,Sricharan WGAN conditional,MC Dropout
+168,0.9616889175103635,Sricharan WGAN conditional,MC Dropout
+169,0.9635704196229273,Sricharan WGAN conditional,MC Dropout
+170,0.9789917614995216,Sricharan WGAN conditional,MC Dropout
+171,0.9723373724489797,Sricharan WGAN conditional,MC Dropout
+172,0.9877714818837692,Sricharan WGAN conditional,MC Dropout
+173,0.9792197091238839,Sricharan WGAN conditional,MC Dropout
+174,0.9602144202407527,Sricharan WGAN conditional,MC Dropout
+175,0.9710154630699935,Sricharan WGAN conditional,MC Dropout
+176,0.9644594776387116,Sricharan WGAN conditional,MC Dropout
+177,0.9861310063576211,Sricharan WGAN conditional,MC Dropout
+178,0.9859513263313137,Sricharan WGAN conditional,MC Dropout
+179,0.9851248604910714,Sricharan WGAN conditional,MC Dropout
+180,0.9739629005899234,Sricharan WGAN conditional,MC Dropout
+181,0.9519385512994261,Sricharan WGAN conditional,MC Dropout
+182,0.9366875473333865,Sricharan WGAN conditional,MC Dropout
+183,0.9932179353675064,Sricharan WGAN conditional,MC Dropout
+184,0.9933994838169644,Sricharan WGAN conditional,MC Dropout
+185,0.9914124157963968,Sricharan WGAN conditional,MC Dropout
+186,0.9846773731465243,Sricharan WGAN conditional,MC Dropout
+187,0.9871464943399234,Sricharan WGAN conditional,MC Dropout
+188,0.9875637755102041,Sricharan WGAN conditional,MC Dropout
+189,0.9755806436344069,Sricharan WGAN conditional,MC Dropout
+190,0.9857118567641902,Sricharan WGAN conditional,MC Dropout
+191,0.9894038609095982,Sricharan WGAN conditional,MC Dropout
+192,0.9961267588089924,Sricharan WGAN conditional,MC Dropout
+193,0.9675355249521684,Sricharan WGAN conditional,MC Dropout
+194,0.9960921929807078,Sricharan WGAN conditional,MC Dropout
+195,0.9874124332350127,Sricharan WGAN conditional,MC Dropout
+196,0.9804192367865114,Sricharan WGAN conditional,MC Dropout
+197,0.9857725805165817,Sricharan WGAN conditional,MC Dropout
+198,0.9888476936184629,Sricharan WGAN conditional,MC Dropout
+199,0.9870689547791773,Sricharan WGAN conditional,MC Dropout

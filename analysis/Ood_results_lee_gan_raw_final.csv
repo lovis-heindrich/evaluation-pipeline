@@ -1,0 +1,401 @@
+,ROC,Measure,Classifier
+0,0.8754752022879464,Lee GAN conditional,Baseline
+1,0.9106885948959662,Lee GAN conditional,Baseline
+2,0.8597687701789701,Lee GAN conditional,Baseline
+3,0.8947039234394929,Lee GAN conditional,Baseline
+4,0.8854960227499203,Lee GAN conditional,Baseline
+5,0.9414481338189571,Lee GAN conditional,Baseline
+6,0.911667181521046,Lee GAN conditional,Baseline
+7,0.850223463408801,Lee GAN conditional,Baseline
+8,0.8936621218311543,Lee GAN conditional,Baseline
+9,0.9024273619359854,Lee GAN conditional,Baseline
+10,0.8235163785973374,Lee GAN conditional,Baseline
+11,0.9047354873345822,Lee GAN conditional,Baseline
+12,0.9052067970742984,Lee GAN conditional,Baseline
+13,0.8694672876474807,Lee GAN conditional,Baseline
+14,0.8488534421336894,Lee GAN conditional,Baseline
+15,0.897172110421317,Lee GAN conditional,Baseline
+16,0.8888883006816009,Lee GAN conditional,Baseline
+17,0.8953598956672514,Lee GAN conditional,Baseline
+18,0.8780408586774553,Lee GAN conditional,Baseline
+19,0.9096198568538743,Lee GAN conditional,Baseline
+20,0.9012136653977998,Lee GAN conditional,Baseline
+21,0.7858830666055484,Lee GAN conditional,Baseline
+22,0.8768425766302614,Lee GAN conditional,Baseline
+23,0.9419286299724968,Lee GAN conditional,Baseline
+24,0.835141707439812,Lee GAN conditional,Baseline
+25,0.8867643706652584,Lee GAN conditional,Baseline
+26,0.8836167004643654,Lee GAN conditional,Baseline
+27,0.7535677540058993,Lee GAN conditional,Baseline
+28,0.834007418885523,Lee GAN conditional,Baseline
+29,0.9091371808733257,Lee GAN conditional,Baseline
+30,0.8939336659956952,Lee GAN conditional,Baseline
+31,0.9031994878029336,Lee GAN conditional,Baseline
+32,0.7626708672971142,Lee GAN conditional,Baseline
+33,0.8124107827945632,Lee GAN conditional,Baseline
+34,0.8149157154316805,Lee GAN conditional,Baseline
+35,0.8968851517657843,Lee GAN conditional,Baseline
+36,0.7806830892757495,Lee GAN conditional,Baseline
+37,0.8843983241489956,Lee GAN conditional,Baseline
+38,0.8384611168686223,Lee GAN conditional,Baseline
+39,0.7039763781489159,Lee GAN conditional,Baseline
+40,0.8628849885901626,Lee GAN conditional,Baseline
+41,0.8199970478914222,Lee GAN conditional,Baseline
+42,0.8163850745376274,Lee GAN conditional,Baseline
+43,0.8805744404695472,Lee GAN conditional,Baseline
+44,0.8297229688994738,Lee GAN conditional,Baseline
+45,0.8809081097038425,Lee GAN conditional,Baseline
+46,0.8233606766681282,Lee GAN conditional,Baseline
+47,0.7461653728874362,Lee GAN conditional,Baseline
+48,0.8185532239018654,Lee GAN conditional,Baseline
+49,0.8712899344308036,Lee GAN conditional,Baseline
+50,0.8826082190688775,Lee GAN conditional,Baseline
+51,0.8590016267737564,Lee GAN conditional,Baseline
+52,0.8526779486208546,Lee GAN conditional,Baseline
+53,0.8300524341816806,Lee GAN conditional,Baseline
+54,0.7373878323301977,Lee GAN conditional,Baseline
+55,0.831819028270488,Lee GAN conditional,Baseline
+56,0.8228706826969069,Lee GAN conditional,Baseline
+57,0.8387781259964924,Lee GAN conditional,Baseline
+58,0.8627798897879462,Lee GAN conditional,Baseline
+59,0.8256916902503189,Lee GAN conditional,Baseline
+60,0.8733987613600127,Lee GAN conditional,Baseline
+61,0.7393443827726403,Lee GAN conditional,Baseline
+62,0.8187763447664222,Lee GAN conditional,Baseline
+63,0.9229186700314891,Lee GAN conditional,Baseline
+64,0.8284715924944196,Lee GAN conditional,Baseline
+65,0.8206030397999043,Lee GAN conditional,Baseline
+66,0.8523962838309151,Lee GAN conditional,Baseline
+67,0.7750258153798629,Lee GAN conditional,Baseline
+68,0.9020919799804688,Lee GAN conditional,Baseline
+69,0.8665545716577646,Lee GAN conditional,Baseline
+70,0.8834673823142537,Lee GAN conditional,Baseline
+71,0.9062166797871493,Lee GAN conditional,Baseline
+72,0.8789190175581952,Lee GAN conditional,Baseline
+73,0.7724785318180006,Lee GAN conditional,Baseline
+74,0.756119085817921,Lee GAN conditional,Baseline
+75,0.8940832955496653,Lee GAN conditional,Baseline
+76,0.8164149693080358,Lee GAN conditional,Baseline
+77,0.8642202883350606,Lee GAN conditional,Baseline
+78,0.8882335740692762,Lee GAN conditional,Baseline
+79,0.7223622847576531,Lee GAN conditional,Baseline
+80,0.918477739606585,Lee GAN conditional,Baseline
+81,0.9169445427096619,Lee GAN conditional,Baseline
+82,0.8191514307138872,Lee GAN conditional,Baseline
+83,0.9127882354113519,Lee GAN conditional,Baseline
+84,0.8892672791772959,Lee GAN conditional,Baseline
+85,0.9537077923210298,Lee GAN conditional,Baseline
+86,0.9187263955875318,Lee GAN conditional,Baseline
+87,0.9107583493602519,Lee GAN conditional,Baseline
+88,0.944189266282685,Lee GAN conditional,Baseline
+89,0.8816836610132335,Lee GAN conditional,Baseline
+90,0.8904842454559949,Lee GAN conditional,Baseline
+91,0.9115391945352359,Lee GAN conditional,Baseline
+92,0.9519643978196748,Lee GAN conditional,Baseline
+93,0.8584776897819674,Lee GAN conditional,Baseline
+94,0.9248471941266739,Lee GAN conditional,Baseline
+95,0.933309438277264,Lee GAN conditional,Baseline
+96,0.924876933195153,Lee GAN conditional,Baseline
+97,0.8565661371970664,Lee GAN conditional,Baseline
+98,0.9151285911092952,Lee GAN conditional,Baseline
+99,0.8628913723692602,Lee GAN conditional,Baseline
+100,0.8095513168646364,Lee GAN conditional,Baseline
+101,0.8677934919084821,Lee GAN conditional,Baseline
+102,0.7787617274693082,Lee GAN conditional,Baseline
+103,0.8457755263970823,Lee GAN conditional,Baseline
+104,0.8539413140744581,Lee GAN conditional,Baseline
+105,0.8513831313775511,Lee GAN conditional,Baseline
+106,0.9087924568020568,Lee GAN conditional,Baseline
+107,0.8431860476124045,Lee GAN conditional,Baseline
+108,0.8695387548329878,Lee GAN conditional,Baseline
+109,0.8505389155173788,Lee GAN conditional,Baseline
+110,0.8538861955915178,Lee GAN conditional,Baseline
+111,0.8702794289102359,Lee GAN conditional,Baseline
+112,0.8522257902184311,Lee GAN conditional,Baseline
+113,0.8594914650430484,Lee GAN conditional,Baseline
+114,0.7929038222955197,Lee GAN conditional,Baseline
+115,0.9105445706114477,Lee GAN conditional,Baseline
+116,0.8569071244220344,Lee GAN conditional,Baseline
+117,0.7928737718231823,Lee GAN conditional,Baseline
+118,0.8393037757095025,Lee GAN conditional,Baseline
+119,0.8299664867167571,Lee GAN conditional,Baseline
+120,0.836489774742905,Lee GAN conditional,Baseline
+121,0.8443846410634566,Lee GAN conditional,Baseline
+122,0.8029383445272641,Lee GAN conditional,Baseline
+123,0.9435979103555486,Lee GAN conditional,Baseline
+124,0.8417579495176978,Lee GAN conditional,Baseline
+125,0.8879062886140784,Lee GAN conditional,Baseline
+126,0.7993909874740912,Lee GAN conditional,Baseline
+127,0.839002648178412,Lee GAN conditional,Baseline
+128,0.8758820514289699,Lee GAN conditional,Baseline
+129,0.9073698082748725,Lee GAN conditional,Baseline
+130,0.8717888034119898,Lee GAN conditional,Baseline
+131,0.8168593426139987,Lee GAN conditional,Baseline
+132,0.9360871606943559,Lee GAN conditional,Baseline
+133,0.8391986769072863,Lee GAN conditional,Baseline
+134,0.7635574340820311,Lee GAN conditional,Baseline
+135,0.8688170763911033,Lee GAN conditional,Baseline
+136,0.8761469004105549,Lee GAN conditional,Baseline
+137,0.8538787218989157,Lee GAN conditional,Baseline
+138,0.8924336336096939,Lee GAN conditional,Baseline
+139,0.8258427211216519,Lee GAN conditional,Baseline
+140,0.7948938486527424,Lee GAN conditional,Baseline
+141,0.7158640647421078,Lee GAN conditional,Baseline
+142,0.7555884536431761,Lee GAN conditional,Baseline
+143,0.8250112728196747,Lee GAN conditional,Baseline
+144,0.7312779329261001,Lee GAN conditional,Baseline
+145,0.8001455190230389,Lee GAN conditional,Baseline
+146,0.8047846580038265,Lee GAN conditional,Baseline
+147,0.6280352534080038,Lee GAN conditional,Baseline
+148,0.788160518724091,Lee GAN conditional,Baseline
+149,0.7846288875657684,Lee GAN conditional,Baseline
+150,0.7879970316984215,Lee GAN conditional,Baseline
+151,0.8396182936065051,Lee GAN conditional,Baseline
+152,0.6904539770009567,Lee GAN conditional,Baseline
+153,0.6819756955516582,Lee GAN conditional,Baseline
+154,0.7180258303272481,Lee GAN conditional,Baseline
+155,0.839074893873565,Lee GAN conditional,Baseline
+156,0.7007050806162308,Lee GAN conditional,Baseline
+157,0.7585559767119738,Lee GAN conditional,Baseline
+158,0.8320038464604593,Lee GAN conditional,Baseline
+159,0.7260363831812021,Lee GAN conditional,Baseline
+160,0.9143516384825416,Lee GAN conditional,Baseline
+161,0.89031390754544,Lee GAN conditional,Baseline
+162,0.888294453523597,Lee GAN conditional,Baseline
+163,0.9486301967075892,Lee GAN conditional,Baseline
+164,0.8835260819415658,Lee GAN conditional,Baseline
+165,0.9514029366629465,Lee GAN conditional,Baseline
+166,0.8887459891183035,Lee GAN conditional,Baseline
+167,0.780222834373007,Lee GAN conditional,Baseline
+168,0.9069710556341677,Lee GAN conditional,Baseline
+169,0.9232633941027584,Lee GAN conditional,Baseline
+170,0.9337612852758291,Lee GAN conditional,Baseline
+171,0.9295352235132335,Lee GAN conditional,Baseline
+172,0.8634229387555803,Lee GAN conditional,Baseline
+173,0.8486736064054529,Lee GAN conditional,Baseline
+174,0.865937836316167,Lee GAN conditional,Baseline
+175,0.9357608094507335,Lee GAN conditional,Baseline
+176,0.9020010500538105,Lee GAN conditional,Baseline
+177,0.9199948992047992,Lee GAN conditional,Baseline
+178,0.9432978727379624,Lee GAN conditional,Baseline
+179,0.8718347354811065,Lee GAN conditional,Baseline
+180,0.880945633868782,Lee GAN conditional,Baseline
+181,0.902141337492028,Lee GAN conditional,Baseline
+182,0.8898323214783959,Lee GAN conditional,Baseline
+183,0.9286248343331475,Lee GAN conditional,Baseline
+184,0.9019340982242505,Lee GAN conditional,Baseline
+185,0.9281795268156091,Lee GAN conditional,Baseline
+186,0.9014167007134886,Lee GAN conditional,Baseline
+187,0.8541821849589445,Lee GAN conditional,Baseline
+188,0.9125462746133609,Lee GAN conditional,Baseline
+189,0.9169636940469548,Lee GAN conditional,Baseline
+190,0.9065785310706314,Lee GAN conditional,Baseline
+191,0.9022316446109695,Lee GAN conditional,Baseline
+192,0.9189515405771684,Lee GAN conditional,Baseline
+193,0.9105327372648279,Lee GAN conditional,Baseline
+194,0.8783519511320153,Lee GAN conditional,Baseline
+195,0.9231617207429846,Lee GAN conditional,Baseline
+196,0.9165252374143017,Lee GAN conditional,Baseline
+197,0.919983532963967,Lee GAN conditional,Baseline
+198,0.9240297589983258,Lee GAN conditional,Baseline
+199,0.8931104698959662,Lee GAN conditional,Baseline
+0,0.9290544159558354,Lee GAN conditional,MC Dropout
+1,0.9063636624083227,Lee GAN conditional,MC Dropout
+2,0.903764685805963,Lee GAN conditional,MC Dropout
+3,0.886444091796875,Lee GAN conditional,MC Dropout
+4,0.897333573321907,Lee GAN conditional,MC Dropout
+5,0.913254874093192,Lee GAN conditional,MC Dropout
+6,0.8854729788643972,Lee GAN conditional,MC Dropout
+7,0.9062017324019452,Lee GAN conditional,MC Dropout
+8,0.9118627431441327,Lee GAN conditional,MC Dropout
+9,0.895492242307079,Lee GAN conditional,MC Dropout
+10,0.9168053451849489,Lee GAN conditional,MC Dropout
+11,0.9230452556999363,Lee GAN conditional,MC Dropout
+12,0.9133683807995854,Lee GAN conditional,MC Dropout
+13,0.9166717529296875,Lee GAN conditional,MC Dropout
+14,0.9028880839445153,Lee GAN conditional,MC Dropout
+15,0.8947120199398119,Lee GAN conditional,MC Dropout
+16,0.9178502608318718,Lee GAN conditional,MC Dropout
+17,0.9040496203364158,Lee GAN conditional,MC Dropout
+18,0.9047527702487245,Lee GAN conditional,MC Dropout
+19,0.9085736955915179,Lee GAN conditional,MC Dropout
+20,0.8863995610451212,Lee GAN conditional,MC Dropout
+21,0.894227631238042,Lee GAN conditional,MC Dropout
+22,0.8968342372349329,Lee GAN conditional,MC Dropout
+23,0.8909541538783482,Lee GAN conditional,MC Dropout
+24,0.8448002095125159,Lee GAN conditional,MC Dropout
+25,0.8789314737125319,Lee GAN conditional,MC Dropout
+26,0.8786406225087692,Lee GAN conditional,MC Dropout
+27,0.9071888826331312,Lee GAN conditional,MC Dropout
+28,0.8772919323979593,Lee GAN conditional,MC Dropout
+29,0.8868540549764827,Lee GAN conditional,MC Dropout
+30,0.8951076585419324,Lee GAN conditional,MC Dropout
+31,0.88920344138632,Lee GAN conditional,MC Dropout
+32,0.8996634969905931,Lee GAN conditional,MC Dropout
+33,0.9126565115792411,Lee GAN conditional,MC Dropout
+34,0.8722462556800064,Lee GAN conditional,MC Dropout
+35,0.8669611093949299,Lee GAN conditional,MC Dropout
+36,0.9087480817522321,Lee GAN conditional,MC Dropout
+37,0.8693371208346621,Lee GAN conditional,MC Dropout
+38,0.8871665487484055,Lee GAN conditional,MC Dropout
+39,0.8834709634586255,Lee GAN conditional,MC Dropout
+40,0.8869239651426978,Lee GAN conditional,MC Dropout
+41,0.8599747638313137,Lee GAN conditional,MC Dropout
+42,0.8775139633490114,Lee GAN conditional,MC Dropout
+43,0.870973236706792,Lee GAN conditional,MC Dropout
+44,0.8750621250697544,Lee GAN conditional,MC Dropout
+45,0.8811463336555324,Lee GAN conditional,MC Dropout
+46,0.841123308454241,Lee GAN conditional,MC Dropout
+47,0.8813999720982143,Lee GAN conditional,MC Dropout
+48,0.8934083276865433,Lee GAN conditional,MC Dropout
+49,0.8638346146564093,Lee GAN conditional,MC Dropout
+50,0.86337576107103,Lee GAN conditional,MC Dropout
+51,0.8768045853595344,Lee GAN conditional,MC Dropout
+52,0.8445493737045601,Lee GAN conditional,MC Dropout
+53,0.8599112374441965,Lee GAN conditional,MC Dropout
+54,0.8333083172233737,Lee GAN conditional,MC Dropout
+55,0.8567613874162947,Lee GAN conditional,MC Dropout
+56,0.8740502182318239,Lee GAN conditional,MC Dropout
+57,0.8816758759167731,Lee GAN conditional,MC Dropout
+58,0.8264029366629464,Lee GAN conditional,MC Dropout
+59,0.8827561359016263,Lee GAN conditional,MC Dropout
+60,0.9097078284438778,Lee GAN conditional,MC Dropout
+61,0.8913124240174586,Lee GAN conditional,MC Dropout
+62,0.8894376170878506,Lee GAN conditional,MC Dropout
+63,0.8871347855548469,Lee GAN conditional,MC Dropout
+64,0.8636278424944196,Lee GAN conditional,MC Dropout
+65,0.8847006972955198,Lee GAN conditional,MC Dropout
+66,0.8702207292829242,Lee GAN conditional,MC Dropout
+67,0.8895375777264031,Lee GAN conditional,MC Dropout
+68,0.87720318229831,Lee GAN conditional,MC Dropout
+69,0.8810580506616709,Lee GAN conditional,MC Dropout
+70,0.9083912129304846,Lee GAN conditional,MC Dropout
+71,0.906919206891741,Lee GAN conditional,MC Dropout
+72,0.8932675731425381,Lee GAN conditional,MC Dropout
+73,0.8702380121970663,Lee GAN conditional,MC Dropout
+74,0.8575697918327487,Lee GAN conditional,MC Dropout
+75,0.9037005366111287,Lee GAN conditional,MC Dropout
+76,0.8951406673509249,Lee GAN conditional,MC Dropout
+77,0.8693741778938138,Lee GAN conditional,MC Dropout
+78,0.9061466139190049,Lee GAN conditional,MC Dropout
+79,0.8978902077188297,Lee GAN conditional,MC Dropout
+80,0.9306363475566006,Lee GAN conditional,MC Dropout
+81,0.9153445496851084,Lee GAN conditional,MC Dropout
+82,0.9163222020986128,Lee GAN conditional,MC Dropout
+83,0.9277362434231506,Lee GAN conditional,MC Dropout
+84,0.907216908980389,Lee GAN conditional,MC Dropout
+85,0.9463245625398596,Lee GAN conditional,MC Dropout
+86,0.9038867561184629,Lee GAN conditional,MC Dropout
+87,0.9377572195870535,Lee GAN conditional,MC Dropout
+88,0.927610747668208,Lee GAN conditional,MC Dropout
+89,0.9245035599689093,Lee GAN conditional,MC Dropout
+90,0.9254552101602358,Lee GAN conditional,MC Dropout
+91,0.9145414391342475,Lee GAN conditional,MC Dropout
+92,0.9305008868781889,Lee GAN conditional,MC Dropout
+93,0.9009168975207269,Lee GAN conditional,MC Dropout
+94,0.9334800875916773,Lee GAN conditional,MC Dropout
+95,0.925583197146046,Lee GAN conditional,MC Dropout
+96,0.931005672532685,Lee GAN conditional,MC Dropout
+97,0.9166455950055804,Lee GAN conditional,MC Dropout
+98,0.9451606906190211,Lee GAN conditional,MC Dropout
+99,0.9401858582788584,Lee GAN conditional,MC Dropout
+100,0.8770795549665179,Lee GAN conditional,MC Dropout
+101,0.8457686755121969,Lee GAN conditional,MC Dropout
+102,0.8560856410435267,Lee GAN conditional,MC Dropout
+103,0.8733659082529496,Lee GAN conditional,MC Dropout
+104,0.8395714273258131,Lee GAN conditional,MC Dropout
+105,0.8809560658980388,Lee GAN conditional,MC Dropout
+106,0.8626394466477997,Lee GAN conditional,MC Dropout
+107,0.8635484345105229,Lee GAN conditional,MC Dropout
+108,0.8356208022759887,Lee GAN conditional,MC Dropout
+109,0.8632762675382654,Lee GAN conditional,MC Dropout
+110,0.867812798947704,Lee GAN conditional,MC Dropout
+111,0.8701760428292411,Lee GAN conditional,MC Dropout
+112,0.83756380665059,Lee GAN conditional,MC Dropout
+113,0.8430350167410714,Lee GAN conditional,MC Dropout
+114,0.8409856679488201,Lee GAN conditional,MC Dropout
+115,0.8514354472257655,Lee GAN conditional,MC Dropout
+116,0.8846566336495535,Lee GAN conditional,MC Dropout
+117,0.8539914500956632,Lee GAN conditional,MC Dropout
+118,0.8617422921316964,Lee GAN conditional,MC Dropout
+119,0.8587279027822066,Lee GAN conditional,MC Dropout
+120,0.9003330152861926,Lee GAN conditional,MC Dropout
+121,0.8872302308374522,Lee GAN conditional,MC Dropout
+122,0.9135910345583547,Lee GAN conditional,MC Dropout
+123,0.9200392742546235,Lee GAN conditional,MC Dropout
+124,0.9027837636519451,Lee GAN conditional,MC Dropout
+125,0.9060183155293366,Lee GAN conditional,MC Dropout
+126,0.8676683075573979,Lee GAN conditional,MC Dropout
+127,0.8743989905532525,Lee GAN conditional,MC Dropout
+128,0.9108734130859375,Lee GAN conditional,MC Dropout
+129,0.8801415891063457,Lee GAN conditional,MC Dropout
+130,0.9172313456632654,Lee GAN conditional,MC Dropout
+131,0.9255405348174426,Lee GAN conditional,MC Dropout
+132,0.9057150081712373,Lee GAN conditional,MC Dropout
+133,0.8808251205755738,Lee GAN conditional,MC Dropout
+134,0.9192961089465083,Lee GAN conditional,MC Dropout
+135,0.8998783656529018,Lee GAN conditional,MC Dropout
+136,0.901275011957908,Lee GAN conditional,MC Dropout
+137,0.8926014802893812,Lee GAN conditional,MC Dropout
+138,0.9122305111009248,Lee GAN conditional,MC Dropout
+139,0.9125719654316805,Lee GAN conditional,MC Dropout
+140,0.8123480349170918,Lee GAN conditional,MC Dropout
+141,0.8168856562400351,Lee GAN conditional,MC Dropout
+142,0.8258872518734057,Lee GAN conditional,MC Dropout
+143,0.8175260582748725,Lee GAN conditional,MC Dropout
+144,0.8069355244539221,Lee GAN conditional,MC Dropout
+145,0.8462463690310109,Lee GAN conditional,MC Dropout
+146,0.8209206717354911,Lee GAN conditional,MC Dropout
+147,0.8449263280751753,Lee GAN conditional,MC Dropout
+148,0.8155813411790498,Lee GAN conditional,MC Dropout
+149,0.808153113540338,Lee GAN conditional,MC Dropout
+150,0.8154857401945154,Lee GAN conditional,MC Dropout
+151,0.8345760423309949,Lee GAN conditional,MC Dropout
+152,0.8014909393933355,Lee GAN conditional,MC Dropout
+153,0.8118032338667889,Lee GAN conditional,MC Dropout
+154,0.7939957599250638,Lee GAN conditional,MC Dropout
+155,0.7730062056560907,Lee GAN conditional,MC Dropout
+156,0.8601295315489477,Lee GAN conditional,MC Dropout
+157,0.8024696817203443,Lee GAN conditional,MC Dropout
+158,0.8086672413105869,Lee GAN conditional,MC Dropout
+159,0.8362630727339764,Lee GAN conditional,MC Dropout
+160,0.9085039411272322,Lee GAN conditional,MC Dropout
+161,0.9196050215740592,Lee GAN conditional,MC Dropout
+162,0.944788563008211,Lee GAN conditional,MC Dropout
+163,0.9279735331632654,Lee GAN conditional,MC Dropout
+164,0.8946358816964285,Lee GAN conditional,MC Dropout
+165,0.9256489033601724,Lee GAN conditional,MC Dropout
+166,0.905243698431521,Lee GAN conditional,MC Dropout
+167,0.9324723847058354,Lee GAN conditional,MC Dropout
+168,0.8983190108318719,Lee GAN conditional,MC Dropout
+169,0.9004848246671715,Lee GAN conditional,MC Dropout
+170,0.9146111935985333,Lee GAN conditional,MC Dropout
+171,0.9269532184211575,Lee GAN conditional,MC Dropout
+172,0.9136776048309949,Lee GAN conditional,MC Dropout
+173,0.9351629140425701,Lee GAN conditional,MC Dropout
+174,0.8895341522839605,Lee GAN conditional,MC Dropout
+175,0.8925725197305485,Lee GAN conditional,MC Dropout
+176,0.9320818842673788,Lee GAN conditional,MC Dropout
+177,0.9225333077566964,Lee GAN conditional,MC Dropout
+178,0.9014786700813137,Lee GAN conditional,MC Dropout
+179,0.9294673374720982,Lee GAN conditional,MC Dropout
+180,0.8987425200793209,Lee GAN conditional,MC Dropout
+181,0.8774115114795917,Lee GAN conditional,MC Dropout
+182,0.9141671316964286,Lee GAN conditional,MC Dropout
+183,0.9058277363679847,Lee GAN conditional,MC Dropout
+184,0.8971292923907845,Lee GAN conditional,MC Dropout
+185,0.9078288175621811,Lee GAN conditional,MC Dropout
+186,0.8792903666593591,Lee GAN conditional,MC Dropout
+187,0.9045774498764351,Lee GAN conditional,MC Dropout
+188,0.8947735222018495,Lee GAN conditional,MC Dropout
+189,0.8927350725446428,Lee GAN conditional,MC Dropout
+190,0.8951104611766582,Lee GAN conditional,MC Dropout
+191,0.909530951052296,Lee GAN conditional,MC Dropout
+192,0.8953645667251275,Lee GAN conditional,MC Dropout
+193,0.9160084627112564,Lee GAN conditional,MC Dropout
+194,0.8967587217992665,Lee GAN conditional,MC Dropout
+195,0.8899199816645408,Lee GAN conditional,MC Dropout
+196,0.9050373933753189,Lee GAN conditional,MC Dropout
+197,0.8868146623883928,Lee GAN conditional,MC Dropout
+198,0.8838139748086735,Lee GAN conditional,MC Dropout
+199,0.9008496342873086,Lee GAN conditional,MC Dropout

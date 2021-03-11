@@ -1,0 +1,281 @@
+,ROC,Measure,Classifier
+0,0.992763597138074,Uniform noise,Baseline
+1,0.9849616848692603,Uniform noise,Baseline
+2,0.9934496198381695,Uniform noise,Baseline
+3,0.9759941879583865,Uniform noise,Baseline
+4,0.9846069958745216,Uniform noise,Baseline
+5,0.9981564891581632,Uniform noise,Baseline
+6,0.9941368881536989,Uniform noise,Baseline
+7,0.9878144556162307,Uniform noise,Baseline
+8,0.9958816839724172,Uniform noise,Baseline
+9,0.9990885209064093,Uniform noise,Baseline
+10,0.9921052893813775,Uniform noise,Baseline
+11,0.9960485964405293,Uniform noise,Baseline
+12,0.9920395831672513,Uniform noise,Baseline
+13,0.9946273492307078,Uniform noise,Baseline
+14,0.9850423384685906,Uniform noise,Baseline
+15,0.9770675970583547,Uniform noise,Baseline
+16,0.9840474031409437,Uniform noise,Baseline
+17,0.9966913340043049,Uniform noise,Baseline
+18,0.9971509660993304,Uniform noise,Baseline
+19,0.9024396623883928,Uniform noise,Baseline
+20,0.9889812858737246,Normal noise,Baseline
+21,0.9873149638273278,Normal noise,Baseline
+22,0.973743672273597,Normal noise,Baseline
+23,0.9440102090640944,Normal noise,Baseline
+24,0.9901923354791135,Normal noise,Baseline
+25,0.9888377286949935,Normal noise,Baseline
+26,0.9966125488281249,Normal noise,Baseline
+27,0.9857370804767219,Normal noise,Baseline
+28,0.9719608851841518,Normal noise,Baseline
+29,0.9887265575175382,Normal noise,Baseline
+30,0.9879988067004145,Normal noise,Baseline
+31,0.9803912104392539,Normal noise,Baseline
+32,0.9809149917291136,Normal noise,Baseline
+33,0.9947603186782527,Normal noise,Baseline
+34,0.9872473891900511,Normal noise,Baseline
+35,0.9931083212093431,Normal noise,Baseline
+36,0.9931024045360332,Normal noise,Baseline
+37,0.9820914755062181,Normal noise,Baseline
+38,0.9885462546835139,Normal noise,Baseline
+39,0.9879869733537946,Normal noise,Baseline
+40,0.945560377471301,Tiny ImageNet,Baseline
+41,0.9498426476303412,Tiny ImageNet,Baseline
+42,0.9584110804966519,Tiny ImageNet,Baseline
+43,0.9516025465361926,Tiny ImageNet,Baseline
+44,0.9565924819634885,Tiny ImageNet,Baseline
+45,0.9649932238520407,Tiny ImageNet,Baseline
+46,0.9525188523895886,Tiny ImageNet,Baseline
+47,0.9259791471520249,Tiny ImageNet,Baseline
+48,0.9641191132214604,Tiny ImageNet,Baseline
+49,0.952613674864477,Tiny ImageNet,Baseline
+50,0.9504464597118143,Tiny ImageNet,Baseline
+51,0.965172748176419,Tiny ImageNet,Baseline
+52,0.9452053770727042,Tiny ImageNet,Baseline
+53,0.9598914944395727,Tiny ImageNet,Baseline
+54,0.928956635144292,Tiny ImageNet,Baseline
+55,0.9419401519152584,Tiny ImageNet,Baseline
+56,0.9224537440708707,Tiny ImageNet,Baseline
+57,0.9600191700215241,Tiny ImageNet,Baseline
+58,0.9514262919523278,Tiny ImageNet,Baseline
+59,0.9332347013512436,Tiny ImageNet,Baseline
+60,0.9466073172433036,Shuffled images,Baseline
+61,0.9877886090959821,Shuffled images,Baseline
+62,0.979589656907685,Shuffled images,Baseline
+63,0.9838639862683354,Shuffled images,Baseline
+64,0.9698716766980231,Shuffled images,Baseline
+65,0.9916568678252551,Shuffled images,Baseline
+66,0.9917387670400192,Shuffled images,Baseline
+67,0.9672544829699457,Shuffled images,Baseline
+68,0.9818887515943878,Shuffled images,Baseline
+69,0.98164025131537,Shuffled images,Baseline
+70,0.961815814582669,Shuffled images,Baseline
+71,0.9848336978834501,Shuffled images,Baseline
+72,0.964357025769292,Shuffled images,Baseline
+73,0.9505960892657844,Shuffled images,Baseline
+74,0.8998224686603157,Shuffled images,Baseline
+75,0.9723697584502551,Shuffled images,Baseline
+76,0.9684821926817601,Shuffled images,Baseline
+77,0.9642003896285077,Shuffled images,Baseline
+78,0.9888346146564094,Shuffled images,Baseline
+79,0.9558734504544006,Shuffled images,Baseline
+80,0.8934583080058196,Mixed images,Baseline
+81,0.889280669543208,Mixed images,Baseline
+82,0.9221256801060269,Mixed images,Baseline
+83,0.8968482504085619,Mixed images,Baseline
+84,0.9030065731126434,Mixed images,Baseline
+85,0.9263973625338807,Mixed images,Baseline
+86,0.916105620715083,Mixed images,Baseline
+87,0.8753985969387755,Mixed images,Baseline
+88,0.9191992623465401,Mixed images,Baseline
+89,0.8890385530432876,Mixed images,Baseline
+90,0.9166533801020407,Mixed images,Baseline
+91,0.9080296730508609,Mixed images,Baseline
+92,0.8979584051638234,Mixed images,Baseline
+93,0.9140667039520887,Mixed images,Baseline
+94,0.8688166092853157,Mixed images,Baseline
+95,0.8909301757812499,Mixed images,Baseline
+96,0.8597595837651466,Mixed images,Baseline
+97,0.9129243188974807,Mixed images,Baseline
+98,0.8939704116509886,Mixed images,Baseline
+99,0.8768171972158005,Mixed images,Baseline
+100,0.8242984693877551,Swirled images,Baseline
+101,0.8742258500079719,Swirled images,Baseline
+102,0.8323918556680485,Swirled images,Baseline
+103,0.8406393868582591,Swirled images,Baseline
+104,0.8310112466617506,Swirled images,Baseline
+105,0.8859204662089445,Swirled images,Baseline
+106,0.8030694455516583,Swirled images,Baseline
+107,0.7686706854372608,Swirled images,Baseline
+108,0.8729850613341039,Swirled images,Baseline
+109,0.8186752942143654,Swirled images,Baseline
+110,0.8400103510642539,Swirled images,Baseline
+111,0.8199989163145729,Swirled images,Baseline
+112,0.838664774992028,Swirled images,Baseline
+113,0.8840137403838488,Swirled images,Baseline
+114,0.7863548434510522,Swirled images,Baseline
+115,0.8098024640764508,Swirled images,Baseline
+116,0.800217764718192,Swirled images,Baseline
+117,0.8477200877909757,Swirled images,Baseline
+118,0.8104526753328284,Swirled images,Baseline
+119,0.7770552343251753,Swirled images,Baseline
+120,0.9033187554807077,Color swap,Baseline
+121,0.9103678489217953,Color swap,Baseline
+122,0.8875975316884567,Color swap,Baseline
+123,0.7672955259984853,Color swap,Baseline
+124,0.8365388208506057,Color swap,Baseline
+125,0.9460528626733896,Color swap,Baseline
+126,0.9269208324198821,Color swap,Baseline
+127,0.777448693100287,Color swap,Baseline
+128,0.8526754573899872,Color swap,Baseline
+129,0.9074616724131058,Color swap,Baseline
+130,0.8480335157744738,Color swap,Baseline
+131,0.9455192721619899,Color swap,Baseline
+132,0.836119048449458,Color swap,Baseline
+133,0.9295847367267219,Color swap,Baseline
+134,0.7210101692044004,Color swap,Baseline
+135,0.7605349482322226,Color swap,Baseline
+136,0.7156562026666136,Color swap,Baseline
+137,0.8984823421556122,Color swap,Baseline
+138,0.7742617860132335,Color swap,Baseline
+139,0.8291543454540019,Color swap,Baseline
+0,0.9941605548469388,Uniform noise,MC Dropout
+1,0.9880595304528061,Uniform noise,MC Dropout
+2,0.9798207185706315,Uniform noise,MC Dropout
+3,0.9889875139508929,Uniform noise,MC Dropout
+4,0.9844008465202487,Uniform noise,MC Dropout
+5,0.9945093271683672,Uniform noise,MC Dropout
+6,0.9889367551219707,Uniform noise,MC Dropout
+7,0.9896775849011479,Uniform noise,MC Dropout
+8,0.9952336525430485,Uniform noise,MC Dropout
+9,0.9925509083027741,Uniform noise,MC Dropout
+10,0.9770367680763712,Uniform noise,MC Dropout
+11,0.9910508759167729,Uniform noise,MC Dropout
+12,0.9843631666533802,Uniform noise,MC Dropout
+13,0.9824664057517538,Uniform noise,MC Dropout
+14,0.9806618203922194,Uniform noise,MC Dropout
+15,0.9945672482860333,Uniform noise,MC Dropout
+16,0.9876628019371813,Uniform noise,MC Dropout
+17,0.9922911974848534,Uniform noise,MC Dropout
+18,0.9876833545918368,Uniform noise,MC Dropout
+19,0.9868086211535395,Uniform noise,MC Dropout
+20,0.9952691525829082,Normal noise,MC Dropout
+21,0.9920579559948981,Normal noise,MC Dropout
+22,0.9838982406927612,Normal noise,MC Dropout
+23,0.9955995520766899,Normal noise,MC Dropout
+24,0.9873635428292411,Normal noise,MC Dropout
+25,0.9946513273278061,Normal noise,MC Dropout
+26,0.9909331652582908,Normal noise,MC Dropout
+27,0.9934309356066645,Normal noise,MC Dropout
+28,0.9949804812061542,Normal noise,MC Dropout
+29,0.9865619892976721,Normal noise,MC Dropout
+30,0.9795311129823022,Normal noise,MC Dropout
+31,0.9925368951291452,Normal noise,MC Dropout
+32,0.9872383584781568,Normal noise,MC Dropout
+33,0.9882413903061226,Normal noise,MC Dropout
+34,0.9862751863440689,Normal noise,MC Dropout
+35,0.9906690947863521,Normal noise,MC Dropout
+36,0.9960622982102997,Normal noise,MC Dropout
+37,0.9953164859693877,Normal noise,MC Dropout
+38,0.9894125802176339,Normal noise,MC Dropout
+39,0.9910290776466838,Normal noise,MC Dropout
+40,0.983154296875,Tiny ImageNet,MC Dropout
+41,0.9800374556560908,Tiny ImageNet,MC Dropout
+42,0.9810314567721621,Tiny ImageNet,MC Dropout
+43,0.981258470184949,Tiny ImageNet,MC Dropout
+44,0.983003266003667,Tiny ImageNet,MC Dropout
+45,0.9872872488839285,Tiny ImageNet,MC Dropout
+46,0.9839642583107461,Tiny ImageNet,MC Dropout
+47,0.9835793631417411,Tiny ImageNet,MC Dropout
+48,0.98858050910794,Tiny ImageNet,MC Dropout
+49,0.9837251001474807,Tiny ImageNet,MC Dropout
+50,0.9715560601682077,Tiny ImageNet,MC Dropout
+51,0.9836108149314413,Tiny ImageNet,MC Dropout
+52,0.979597130600287,Tiny ImageNet,MC Dropout
+53,0.9823138178611288,Tiny ImageNet,MC Dropout
+54,0.9851771763392858,Tiny ImageNet,MC Dropout
+55,0.9846337766063457,Tiny ImageNet,MC Dropout
+56,0.9804267104791135,Tiny ImageNet,MC Dropout
+57,0.9823381073620855,Tiny ImageNet,MC Dropout
+58,0.9778224400111607,Tiny ImageNet,MC Dropout
+59,0.9795197467414701,Tiny ImageNet,MC Dropout
+60,0.9946703229631696,Shuffled images,MC Dropout
+61,0.9892248036910076,Shuffled images,MC Dropout
+62,0.9818625936702807,Shuffled images,MC Dropout
+63,0.9898426289461096,Shuffled images,MC Dropout
+64,0.9875130166812819,Shuffled images,MC Dropout
+65,0.9921501315369899,Shuffled images,MC Dropout
+66,0.9911259242466518,Shuffled images,MC Dropout
+67,0.9911769944794324,Shuffled images,MC Dropout
+68,0.9939382124920281,Shuffled images,MC Dropout
+69,0.9922310965401786,Shuffled images,MC Dropout
+70,0.9811404481226084,Shuffled images,MC Dropout
+71,0.9906656693439094,Shuffled images,MC Dropout
+72,0.9862431117466518,Shuffled images,MC Dropout
+73,0.984100964604592,Shuffled images,MC Dropout
+74,0.9841036115373883,Shuffled images,MC Dropout
+75,0.9950405821508291,Shuffled images,MC Dropout
+76,0.9905168182995854,Shuffled images,MC Dropout
+77,0.992063872668208,Shuffled images,MC Dropout
+78,0.9896984489596621,Shuffled images,MC Dropout
+79,0.9889843999123087,Shuffled images,MC Dropout
+80,0.9131768674266582,Mixed images,MC Dropout
+81,0.9154399949677137,Mixed images,MC Dropout
+82,0.9152360254404496,Mixed images,MC Dropout
+83,0.9244540467554208,Mixed images,MC Dropout
+84,0.9320099499760843,Mixed images,MC Dropout
+85,0.9184255794602998,Mixed images,MC Dropout
+86,0.914962457150829,Mixed images,MC Dropout
+87,0.9287872314453126,Mixed images,MC Dropout
+88,0.9318380550462373,Mixed images,MC Dropout
+89,0.9340944874043368,Mixed images,MC Dropout
+90,0.9270807383011798,Mixed images,MC Dropout
+91,0.9310287164182078,Mixed images,MC Dropout
+92,0.9349710892657844,Mixed images,MC Dropout
+93,0.9278038180604271,Mixed images,MC Dropout
+94,0.9273821772361288,Mixed images,MC Dropout
+95,0.9212523479850924,Mixed images,MC Dropout
+96,0.9268230516083387,Mixed images,MC Dropout
+97,0.9290307492625958,Mixed images,MC Dropout
+98,0.9237614845742985,Mixed images,MC Dropout
+99,0.9264133998325892,Mixed images,MC Dropout
+100,0.9307210494060907,Swirled images,MC Dropout
+101,0.9278662545340403,Swirled images,MC Dropout
+102,0.9415692699198821,Swirled images,MC Dropout
+103,0.9450123066804847,Swirled images,MC Dropout
+104,0.9474708401426978,Swirled images,MC Dropout
+105,0.9549199318399234,Swirled images,MC Dropout
+106,0.9217775305923149,Swirled images,MC Dropout
+107,0.9336336096938775,Swirled images,MC Dropout
+108,0.9418549829599808,Swirled images,MC Dropout
+109,0.941272969148597,Swirled images,MC Dropout
+110,0.92657470703125,Swirled images,MC Dropout
+111,0.9513755331234056,Swirled images,MC Dropout
+112,0.9325829330755739,Swirled images,MC Dropout
+113,0.9327071832150828,Swirled images,MC Dropout
+114,0.9531910176179846,Swirled images,MC Dropout
+115,0.9141070307517538,Swirled images,MC Dropout
+116,0.9508964382872289,Swirled images,MC Dropout
+117,0.9173344203404016,Swirled images,MC Dropout
+118,0.9377777722417091,Swirled images,MC Dropout
+119,0.9152601592394771,Swirled images,MC Dropout
+120,0.8065026730907207,Color swap,MC Dropout
+121,0.8819053805604273,Color swap,MC Dropout
+122,0.8820255824497768,Color swap,MC Dropout
+123,0.8895813299685109,Color swap,MC Dropout
+124,0.8941637934470663,Color swap,MC Dropout
+125,0.9357541142677773,Color swap,MC Dropout
+126,0.8670582673987564,Color swap,MC Dropout
+127,0.8965440088388872,Color swap,MC Dropout
+128,0.9207548803212692,Color swap,MC Dropout
+129,0.9419990072444994,Color swap,MC Dropout
+130,0.9260957678970025,Color swap,MC Dropout
+131,0.9315521863042092,Color swap,MC Dropout
+132,0.9370662144252233,Color swap,MC Dropout
+133,0.9111988301179846,Color swap,MC Dropout
+134,0.892983884227519,Color swap,MC Dropout
+135,0.9035747294523278,Color swap,MC Dropout
+136,0.798462692572146,Color swap,MC Dropout
+137,0.925030299595424,Color swap,MC Dropout
+138,0.8704668940330038,Color swap,MC Dropout
+139,0.8795264107840403,Color swap,MC Dropout
